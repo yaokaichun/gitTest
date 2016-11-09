@@ -6,4 +6,7 @@ class test
   # change py yao
   def yao
   end
+  
+  def second_modify
+  end
 end
